@@ -42,7 +42,7 @@
                     <div class="md-form">
                         <i class="fa fa-envelope prefix"></i>
                         <input type="text" id="form2" class="form-control" name="mail">
-                        <label for="form2">Correo Electrónico</label>
+                        <label for="form2">Email</label>
                     </div>
 
                     <div class="md-form">
@@ -54,7 +54,7 @@
                     <div class="md-form">
                         <i class="fa fa-pencil prefix"></i>
                         <textarea type="text" id="form8" class="md-textarea" name="contenido"></textarea>
-                        <label for="form8">Tu mensaje</label>
+                        <label for="form8">Comentarios/label>
                     </div>
 
                     <div class="text-center">
@@ -106,4 +106,6 @@
     </div>
 
 </section>
+
+
 <!--/Section: Contact v.1-->
